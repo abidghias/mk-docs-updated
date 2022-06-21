@@ -1,8 +1,9 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: mk-docs
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - Page-2: page_2.md
 
 site_author: Sunny Bhaveen Chandra
 site_description: >-
@@ -39,13 +40,13 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/c17hawke
+      link: https://github.com/abidghias
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/c17hawke
+      link: https://twitter.com/abidghias89
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/c17hawke
+      link: https://www.linkedin.com/in/abid-ghias-366482101/
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/c17hawke/
+      link: https://www.instagram.com/abid_ghias/
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -70,4 +71,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/c17hawke"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
+  &copy; 2022 <a href="https://github.com/abidghias"  target="_blank" rel="noopener">Abid Ghias</a>
